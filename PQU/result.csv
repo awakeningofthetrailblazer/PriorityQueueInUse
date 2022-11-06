@@ -1,0 +1,43 @@
+intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Berlin_center,12981,28376,0.027,0.028,0.025
+intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Berlin_center,12981,28376,0,0.027,0.025
+Birmingham,14639,33937,0,4.464,0.039
+Chicago,933,2950,0,0.009,0.001
+GoldCoast,4807,11140,0,0.43,0.011
+Philadelphia,13389,40003,0,3.579,0.048
+Sydney,33113,75379,0,26.257,0.169
+intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Berlin_center,12981,28376,0.041,0.029,0.034
+Birmingham,14639,33937,79.705,4.718,0.046
+Chicago,933,2950,0.066,0.011,0.001
+GoldCoast,4807,11140,3.075,0.492,0.01
+Philadelphia,13389,40003,82.074,3.82,0.043
+intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Berlin_center,12981,28376,0.044,0.035,0.028
+Birmingham,14639,33937,82.236,4.563,0.042
+Chicago,933,2950,0.063,0.01,0.001
+GoldCoast,4807,11140,2.771,0.435,0.008
+Philadelphia,13389,40003,75.898,3.726,0.04
+intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Berlin_center,12981,28376,0.064,0.045,0.029
+Birmingham,14639,33937,76.038,4.451,0.036
+Chicago,933,2950,0.062,0.01,0.002
+GoldCoast,4807,11140,2.677,0.428,0.01
+Philadelphia,13389,40003,67.554,3.628,0.043
+Sydney,33113,75379,0,23.859,0.106
+intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Anaheim,416,914,0.012,0.002,0.001
+Berlin_center,12981,28376,0.034,0.03,0.031
+Birmingham,14639,33937,72.16,4.384,0.045
+Chicago,933,2950,0.061,0.01,0.002
+GoldCoast,4807,11140,2.691,0.449,0.008
+Philadelphia,13389,40003,intances,nodes,edges,time in matrix,time in neighbors,time in priority queues
+Siouxfalls,24,76,0,0,0
+Anaheim,416,914,0.013,0.002,0.001
+Berlin_center,12981,28376,0.032,0.031,0.031
+Birmingham,14639,33937,78.659,4.529,0.04
+Chicago,933,2950,0.062,0.012,0.001
+GoldCoast,4807,11140,2.757,0.435,0.009
+Philadelphia,13389,40003,70.652,3.761,0.045
+Sydney,33113,75379,0,24.157,0.11
